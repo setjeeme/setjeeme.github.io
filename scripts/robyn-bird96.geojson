@@ -1,0 +1,126 @@
+var geoJson = [{
+  "type": "FeatureCollection",
+  "features": [{
+        "type": "Feature",
+        "properties": {
+          "title": "Jazz music",
+          "marker-size": "medium",
+          "marker-color": "#FF0040",
+          "marker-symbol": "star-stroked",
+          "images": [
+            [
+              "<iframe width=\"180\" src=\"http://www.youtube.com/embed/tReJDdEiNe4\" frameborder=\"0\" allowfullscreen><\/iframe>",
+              "Rex Stewart. 'Linden Blues.' 1947. Jazz music was banned in Germany during the Nazi regime, but after WWII, there was a huge jazz movement, as it provided hope for reconstruction."
+            ],
+            [
+              '<img src="images/quasimodo_berlin.jpg" />',
+              "Quasimodo - jazz club. First built in 1927 as a dance hall called the 'Mecca of Swing', it was closed in 1943 due to bombing. In 1947, reconstruction began as the Delphi Movie Theatre at the Zoo, with concerts in the basement."
+            ],
+            [
+              '<img src="images/Rex_Stewart_1943.jpg" />',
+              "Rex Stewart, 1943, with Duke Ellington's orchestra (Library of Congress). An American jazz cornetist, he recorded for Amigas Records with Hot Club Berlin in 1948."
+            ]
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "13.328408",
+            "52.506016"
+          ]
+        }
+        }, {
+        "type": "Feature",
+        "properties": {
+            "title": "Siegessaule",
+            "marker-size": "medium",
+            "marker-color": "#FF0040",
+            "marker-symbol": "star-stroked",
+            "images": [
+                ['<img src="images/Lesser_Ury_Siegesallee_mit_Siegessäule_im_Herbst.jpg" />',
+                    "Siegesallee mit Siegessäule im Herbst. Lesser Ury. 1925. Pastel on canvas. 35 x 49.8 cm."
+                ],
+                ['<img src="images/300px-Berliner_Siegessäule_2012-04.jpg" />',
+                    "The Berlin Victory Column (Thomas Wolf). Polish Army troops who fought as Soviet allies, hoisted the Polish flag on the column on May 2, 1945 at the end of the Battle in Berlin."
+                ]
+            ]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "13.350119",
+                "52.514543"
+          ]
+        }
+        }, {
+          "type": "Feature",
+          "properties": {
+              "title": "Platz der Luftbrucke",
+              "marker-size": "medium",
+              "marker-color": "#FF0040",
+              "marker-symbol": "star-stroked",
+              "images": [
+                [
+                  "<iframe width=\"180\" src=\"http://www.youtube.com/embed/fQ30Rgc5Prc\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                  "Berlin Airlift. 1948-49. To squeeze the Western allies out of Berlin, Stalin blockaded all rail, road, and water traffic into Berlin, in the Blockade of Berlin."
+                ],
+                ['<img src="images/Bundesarchiv_B_145_Bild-F001298-0004,_Berlin,_Flughafen_Tempelhof.jpg" />',
+                      "Berlin Air Lift Memorial. (Berlin, Flughafen Tempelhof, Brodde). The Allies responded by flying in supplies to the Berliners for two years."
+                ],
+                ['<img src="images/Berlin_Children_Playing_Luftbrucke_Game.jpg" />',
+                      "Berlin children playing Luftbrucke game. (USGov Military Force)"
+                ]
+              ]
+          },
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  "13.3881433",
+                  "52.4840873"
+            ]
+          }
+          }, {
+            "type": "Feature",
+            "properties": {
+                "title": "Flakturm III at Volkspark Humboldthain",
+                "marker-size": "medium",
+                "marker-color": "#FF0040",
+                "marker-symbol": "star-stroked",
+                "images": [
+                    ['<img src="images/800px-Humboldthain.jpg" />',
+                        "Flakturm III, G Tower. The flak towers were used as air raid shelters, as well as being used by the Luftwaffe (the German Air Force) to coordinate air defense."
+                    ]
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "13.384961",
+                    "52.547238"
+              ]
+            }
+            }, {
+              "type": "Feature",
+              "properties": {
+                  "title": "Führerbunker",
+                  "marker-size": "medium",
+                  "marker-color": "#FF0040",
+                  "marker-symbol": "star-stroked",
+                  "images": [
+                      ['<img src="images/Bundesarchiv_Bild_183-M1204-319,_Berlin,_Reichskanzlei,_gesprengter_Führerbunker.jpg" />',
+                          "Ruins of Hitler's Bunker after demolition in 1947 (German Federal Archive). Served as Hitler's headquarters and his bomb shelter at the end of the war."
+                      ],
+                      ['<img src="images/Bundesarchiv_Bild_183-V04744,_Berlin,_Garten_der_zerstörte_Reichskanzlei.jpg" />',
+                          "Rear entrance. July 1947. Hitler and Eva Braun were cremated in a shell hole in front of the emergency exit at left."
+                      ]
+                  ]
+              },
+              "geometry": {
+                  "type": "Point",
+                  "coordinates": [
+                      "13.380956",
+                      "52.512503"
+                ]
+              }
+              }]
+      }];

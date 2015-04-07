@@ -1,0 +1,299 @@
+var geoJson = [{
+  "type": "FeatureCollection",
+  "features": [{
+    "type": "Feature",
+    "properties": {
+      "title": "Berlin Cathedral",
+      "marker-size": "medium",
+      "marker-color": "#3366FF",
+      "marker-symbol": "star-stroked",
+      "images": [
+        ['<img src="images/2965341926_2221fc069b_q-2.jpg" />',
+          "The Berlin Cathedral. Berliner Dom is an iconic cathedral located on Museum Island, known for its religious importance but also its crypts located in the basement. It was the usual burial place for the Dukes of Prussia and Electors of Brandenburg. The Royal Crypt below the Cathedral is the final resting place of several of the Kings of Prussia as well, including Wilhelm I and Friedrich III. It was bombed a lot during WWII and partially destroyed, losing a few of its tombs."
+        ],
+        ['<img src="images/7955468750_e40379df7a_q.jpg" />',
+          "The Berlin Cathedral catacombs."
+        ]
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "13.4011",
+        "52.5192"
+      ]
+    }
+    }, {
+        "type": "Feature",
+        "properties": {
+          "title": "Brandenburg Gate",
+          "marker-size": "medium",
+          "marker-color": "#e5c278",
+          "marker-symbol": "star-stroked",
+          "images": [
+            [
+              '<iframe width="180"  src="http://www.youtube.com/embed/1lybtNTWtD8" frameborder="0" allowfullscreen></iframe>',
+              "Berlin, Germany--Brandenburg Gate (2013) by ACG Travel Videos. The Brandenburg Gate: key entry point to the city of Berlin, a symbol of German victory and strength throughout the ages. Built between 1788-1791 by Prussian King Frederick William II, the gate has stood witness to a multitude of German political events such as Hitler’s rise to power in 1933. On the night Hitler was appointed Chancellor on January 30, 1933, thousands of stormtroopers and SS members passed under the gate to the presidential palace in honor of Hitler’s new reign."
+            ],
+            [
+              '<img src="images/BrandenburgGate.jpg" />',
+              "The Brandenburg Gate by Thomas Wolf."
+            ],[
+              '<img src="images/chariots.jpg" />',
+              "Brandenburg Gate Monument by anonymous."
+            ]
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "13.3777",
+            "52.5163"
+          ]
+        }
+        }, {
+            "type": "Feature",
+            "properties": {
+              "title": "Berlin-Marzahn Concentration Camp",
+              "marker-size": "medium",
+              "marker-color": "#e5c278",
+              "marker-symbol": "star-stroked",
+              "images": [
+                [
+                  '<img src="images/ConcentrationCamp.jpg" />',
+                  "Berlin-Mazrahn Concentration Camp: From Garmisch to Berlin. The Berlin-Marzahn Concentration Camp was unique in the fact it was one of the very first concentration camps established in Germany before the Holocaust. At 4 a.m. in the morning of July 16, 1936, just before the opening of the Berlin Olympics, German police began arresting all Romani citizens and forcibly removing them to an open field in eastern Berlin sandwhiched between a cemetery and a sewage dump."
+                ]
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                "13.5464",
+                "52.5514"
+              ]
+            }
+            }, {
+              "type": "Feature",
+              "properties": {
+                "title": "Kaiser Wilhelm Memorial Church",
+                "marker-size": "medium",
+                "marker-color": "#e5c278",
+                "marker-symbol": "star-stroked",
+                "images": [
+                  [
+                    '<iframe width="180"  src="http://www.youtube.com/embed/xbe7vwX19KY" frameborder="0" allowfullscreen></iframe>',
+                    "A tour of the Kaiser Wilhelm Memorial Church by geobeats."
+                  ],
+                  [
+                    '<img src="images/Berlin-Kaiser-Wilhelm-Memorial-Church.jpg" />',
+                    "Kaiser Wilhelm Memorial Church by HQ."
+                  ]
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  "13.3350",
+                  "52.5050"
+                ]
+              }
+              }, {
+                "type": "Feature",
+                "properties": {
+                  "title": "Charlottenburg Palace",
+                  "marker-size": "medium",
+                  "marker-color": "#e5c278",
+                  "marker-symbol": "star-stroked",
+                  "images": [
+                    [
+                      '<iframe width="180"  src="http://www.youtube.com/embed/9CIuZ0nEbKI" frameborder="0" allowfullscreen></iframe>',
+                      "Charlottenburg Palace by anonymous As the largest palace in Berlin, the Charlottenburg Palace towers majestically over the city as a reminder of the royal Hohenzollern Family’s prescence and grandeur. The palace was built at the end of the 17th century in baroque and rococo styles surrounded by a large formal garden, a mausoleum, a theatre, and a pavilion. Unfortunately, Charlottenburg Palace was a victim of the World War Two bombing raids in Berlin, but has since been reconstructed as a tourist site."
+                    ],
+                    [
+                      '<img src="images/Charlottenburg_Palace_03.jpg" />',
+                      "Charlottenburg Palace by Carmelo Bayarcal."
+                    ]
+                  ]
+                },
+                "geometry": {
+                  "type": "Point",
+                  "coordinates": [
+                    "13.2958",
+                    "52.5211"
+                  ]
+                }
+              },{
+                "type": "Feature",
+                "properties": {
+                  "title": "Kaiser Wilhelm Memorial Church",
+                  "marker-size": "medium",
+                  "marker-color": "#e5c278",
+                  "marker-symbol": "star-stroked",
+                  "images": [
+                    [
+                      '<iframe width="180"  src="http://www.youtube.com/embed/xbe7vwX19KY" frameborder="0" allowfullscreen></iframe>',
+                      "A tour of the Kaiser Wilhelm Memorial Church by geobeats. Kieser Wilmhelm Memorial Church is located in western Berlin with Kaiser Wilhelm II ordering the buildings construction, who named it after his father Kaiser Wilhelm I. There was a competition to see who could design the best building and in early March of 1891 a design was chosen and work began. Unfortunately, a WWII bombing raid saw an utter destruction of the church. Thankfully, a new church was built and complete on December 17th, 1961 that incorporated the remains of the old church including the iconic winding stair case."
+                    ],
+                    [
+                      '<img src="images/Berlin-Kaiser-Wilhelm-Memorial-Church.jpg" />',
+                      "Kaiser Wilhelm Memorial Church by HQ."
+                    ]
+                  ]
+                },
+                "geometry": {
+                  "type": "Point",
+                  "coordinates": [
+                    "13.3350",
+                    "52.5050"
+                  ]
+                }
+              },{
+                "type": "Feature",
+                "properties": {
+                  "title": "Potsdamer Platz",
+                  "marker-size": "medium",
+                  "marker-color": "#e5c278",
+                  "marker-symbol": "star-stroked",
+                  "images": [
+                    [
+                      '<iframe width="180"  src="http://www.youtube.com/embed/ffkvfEe1268" frameborder="0" allowfullscreen></iframe>',
+                      "Berlin City Tour Potsdamer Platz by Antoine Duval. Potsdamer Platz is a bustling and hustling public square in the heart of Berlin. It lies one kilometer south of the Brandenburg Gate and the Reichstag Building. Has become a meca of development and today is filled with skyscrapers. However, it has a much more humble origin as a simple trading post with a few country roads passing through in the 17th century."
+                    ],
+                    [
+                      '<img src="images/potsdamer_platz_1919.jpg" />',
+                      "Potsdamer Platz 1919 by cruise."
+                    ]
+                  ]
+                },
+                "geometry": {
+                  "type": "Point",
+                  "coordinates": [
+                    "13.3765",
+                    "52.5094"
+                  ]
+                }
+              },{
+                "type": "Feature",
+                "properties": {
+                  "title": "Reich Chancellory",
+                  "marker-size": "medium",
+                  "marker-color": "#e5c278",
+                  "marker-symbol": "star-stroked",
+                  "images": [
+                    [
+                      '<iframe width="180"  src="http://www.youtube.com/embed/GBLml5pchgg" frameborder="0" allowfullscreen></iframe>',
+                      "Albert Speer's Berlin: The Reich Chancellory (Trailer). The Reich Chancellery was the traditional name of the office of the Chancellor of Germany in the German Reich from 1871-1945. In 1936, Hitler added a bunker to the Chancellery in case of an air raid, and called it the Reich Chancellery Air-Raid Shelter."
+                    ],
+                    [
+                      '<img src="images/reichchancelloryREAL.jpg" />',
+                      "Berlin Reich Chancellory by BArchbot."
+                    ]
+                  ]
+                },
+                "geometry": {
+                  "type": "Point",
+                  "coordinates": [
+                    "13.3819",
+                    "52.5117"
+                  ]
+                }
+              },{
+                "type": "Feature",
+                "properties": {
+                  "title": "Checkpoint Charlie",
+                  "marker-size": "medium",
+                  "marker-color": "#e5c278",
+                  "marker-symbol": "star-stroked",
+                  "images": [
+                    [
+                      '<iframe width="180"  src="http://www.youtube.com/embed/AouNl1ts20E" frameborder="0" allowfullscreen></iframe>',
+                      "Berlin: Checkpoint Charlie by citytransportinfo. Checkpoint Charlie was designated as the best-known crossing point for the Berlin Wall between East and West Berlin for members of the Allied forces and foreigners alike during the Cold War. The East German government erected the Checkpoint in 1961in order to audit who was allowed to enter East Berlin. Although this landmark was not a part of Berlin in 1936, it held much relevance for the nation in the tumultuous years to come (i.e. European Brain Drain)."
+                    ],
+                    [
+                      '<img src="images/1844598181_bf93ee145a_q.jpg" />',
+                      "Checkpoint Charlie 1947 by Cara a Cara."
+                    ]
+                  ]
+                },
+                "geometry": {
+                  "type": "Point",
+                  "coordinates": [
+                    "13.3903",
+                    "52.5075"
+                  ]
+                }
+              },{
+                "type": "Feature",
+                "properties": {
+                  "title": "Berlin Museum Island",
+                  "marker-size": "medium",
+                  "marker-color": "#e5c278",
+                  "marker-symbol": "star-stroked",
+                  "images": [
+                    [
+                      '<iframe width="180"  src="http://www.youtube.com/embed/SCBoJLyTCOo" frameborder="0" allowfullscreen></iframe>',
+                      "Berlin Museum Island by DW. First created in 1830, Museum Island was built on the northern half of an island on the Spree River in central Berlin as a site for five internationally significant museums. While this site houses a wide variety of exotic art and exhibits such as Nefertitit and the Pergamon Frieze, it is also considered a magnificent work of art itself. In fact, it is even the only architectural and cultural ensemble in Berlin considered part of the UNESCO world heritage."
+                    ],
+                    [
+                      '<img src="images/8288792419_52ff83131e_q.jpg" />',
+                      "Berlin Museum Island by Stadtlichtpunkte."
+                    ]
+                  ]
+                },
+                "geometry": {
+                  "type": "Point",
+                  "coordinates": [
+                    "13.3956",
+                    "52.5214"
+                  ]
+                }
+              },{
+                "type": "Feature",
+                "properties": {
+                  "title": "Olympiastadion Berlin",
+                  "marker-size": "medium",
+                  "marker-color": "#e5c278",
+                  "marker-symbol": "star-stroked",
+                  "images": [
+                    [
+                      '<iframe width="180"  src="http://www.youtube.com/embed/dVlaIJVAUq4" frameborder="0" allowfullscreen></iframe>',
+                      "Berlin Olympics 1936 by ranban282. Olympics: This was built for the 1936 Olympics by Adolf Hitler, who also used this stadium as propaganda Four million tickets were sold for all the events of the 1936 Summer Olympics. This was also the first Olympics with television  transmission (25 giant screens were scattered all over Berlin) and radio transmissions in 28 languages."
+                    ],
+                    [
+                      '<img src="images/olympiastadion-1936-4.jpg" />',
+                      "Berlin Olympiastadion by Eindruck des Hakenkreuzes."
+                    ]
+                  ]
+                },
+                "geometry": {
+                  "type": "Point",
+                  "coordinates": [
+                    "13.2394",
+                    "52.5147"
+                  ]
+                }
+              },{
+                "type": "Feature",
+                "properties": {
+                  "title": "Waldbuhne",
+                  "marker-size": "medium",
+                  "marker-color": "#e5c278",
+                  "marker-symbol": "star-stroked",
+                  "images": [
+                    [
+                      '<img src="images/waldbuhne.jpg" />',
+                      "Waldbuhne by anonymous. The Waldbühne translates to Woodland Stage or Forest Stage and is an amphitheatre in Berlin, Germany. Germany was determined to outdo the United States after the 1932 Los Angeles Olympics and The Waldbühne was one of many additions to the city. Since World War II it has been used for a variety of events, including boxing matches, film showings and classical and rock concerts. It seats more than 22,000 people."
+                    ]
+                  ]
+                },
+                "geometry": {
+                  "type": "Point",
+                  "coordinates": [
+                    "13.2297",
+                    "52.5131"
+                  ]
+                }
+              },
+            ]
+          }
+        ]

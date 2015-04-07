@@ -1,0 +1,305 @@
+var geoJson = [{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hansa Studios",
+        "marker-size": "medium",
+        "marker-color": "#000080",
+        "marker-symbol": "music",
+        "images": [
+          ['<img src="images/BonoAtHansa.jpg" />',
+            "U2 star Bono preparing to record at Hansa Studios. (Photo Credit: U2 Hansa Studios 2011-05-03; Matthias Muehlbradt - flickr.com)"
+          ],
+
+          ['<img src="images/Studio2.jpg" />',
+            "The Famous Hansa Studio 2. (Photo Credit: GJ, Frank; Joni Sackett - flickr.com)"
+          ],
+
+          ['<img src="images/GarethJones.jpg" />',
+            "Now-famous producer Gareth Jones working in Studio 2. (Photo Credit: Hansa 2, Berlin; Joni Sackett - flickr.com)"
+          ],
+
+          ['<img src="images/HansaBallroom.jpg" />',
+            "One of the ballrooms of Hansa Studio. (Photo Credit: The Meistersaal in Berlin; Wikipedia author ln3s)"
+          ],
+
+
+
+          ["<iframe width=\"180\" src=\"https://www.youtube.com/embed/ilwteQnEOmE\" frameborder=\"0\" allowfullscreen></iframe>",
+          "Bowie performs his famous song \"Heroes\", which he recorded at Hansa Studios."
+          ]
+
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "13.376987",
+          "52.506317"
+        ]
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "title": "Reichstag",
+        "marker-size": "medium",
+        "marker-color": "#000080",
+        "marker-symbol": "town-hall",
+        "images": [
+
+          ['<img src="images/Reichstag1945.jpg" />',
+            "The Reichstag post WWII. (NA)"
+          ],
+
+          ['<img src="images/Reichstag1970.jpg" />',
+            "The Reichstag, still unused, in 1970. (Photo Credit: Berlin - Reichstag (1970); roger4336 - flickr.com)"
+          ],
+
+          ['<img src="images/CurrentReichstag.jpg" />',
+            "The Reichstag as it is now. (Photo Credit: Le Reichstag (Berlin); Jean-Pierre Dalbéra - flickr.com)"
+          ],
+
+          ['<img src="images/ReichDomeOut.jpg" />',
+            "A look from the roof. (NA)"
+          ],
+
+          ['<img src="images/ReichDomeInt.jpg" />',
+            "A look from the interior. (Photo Credit: Interior de la cúpula del Reichstag; Guillén Pérez - flickr.com)"
+          ],
+
+
+
+        ]
+      },
+
+
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "13.376187",
+          "52.51862"
+        ]
+      }
+      },
+
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "Leninplatz",
+          "marker-size": "medium",
+          "marker-color": "#000080",
+          "marker-symbol": "monument",
+          "images": [
+
+            ['<img src="images/PioneerParade.jpg" />',
+              "GDR citizens gather at Leninplatz for the \"Pioniertreffen (Pioneer Parade)\" on May 5th, 1970. (Photo Credit: Berlin, Denkmal Lenin am Leninplatz; Das Bundesarchiv - Wikipedia)"
+            ],
+
+            ['<img src="images/LandsbergerPlatz.jpg" />',
+              "Pre-WWII Landsberger railway station. (Photo Credit: NA)"
+            ],
+
+            ['<img src="images/LeninStamp.jpg" />',
+              "The GDR Leninplatz stamp. (Photo Credit: [stamp]; Hochgeladen und Bearbeitet von --Nightflyer;)"
+            ],
+
+            ['<img src="images/LeninProtest.jpg" />',
+              "Demonstrators at Leninplatz in response to \"US imperial forces\" in Vietnam. (Photo credit: Bundesarchiv Bild 183-L0726-037, Berlin, Lenin-Denkmal am Leninplatz; Das Bundesarchiv - Wikipedia)"
+            ],
+
+            ['<img src="images/LeninplatzNow.jpg" />',
+              "Leninplatz now - Renamed Platz der Vereinten Nationen (United Nations Square). (Photo Credit: Berlin Plattenbau Leninplatz Platz der Vereinten Nationen 23-32; Martin Pueschel - Wikipedia)"
+            ],
+
+            ['<img src="images/UNSquare.jpg" />',
+              "Layout of UN Square. (Photo Credit: Platz der Vereinten Nationen Berlin; Martin Pueschel - Wikipedia)"
+            ],
+
+
+
+            ["<iframe width=\"180\"  src=\"http://www.youtube.com/embed/mIjSaHUKD5I\" frameborder=\"0\" allowfullscreen></iframe>",
+            "German movie \"Goodbye, Lenin\"."
+            ]
+
+
+
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "13.4536465",
+            "52.5276822"
+          ]
+        }
+      },
+      {
+          "type": "Feature",
+          "properties": {
+            "title": "Brandenburg Gate",
+            "marker-size": "medium",
+            "marker-color": "#FFFF00",
+            "marker-symbol": "monument",
+            "images": [
+
+              ['<img src="images/brandenburg.jpg" />',
+                "The Brandenburg Gate was built in 1791 by the Prussians. During this period it was located in East Berlin.(Roger Berlin - Brandenburg Gate)"
+              ],
+              ['<img src="images/brandenburg2.jpg" />',
+                "JFK's famous 'I am a jelly doughnut speech' was delivered in front of the West Berlin city hall, very close to the gate.(At night)"
+              ],
+              ['<img src="images/quadriga.jpg" />',
+                  "A close up of the statue on top of the gate. (Filip Knežić)"
+                ],
+            ]
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              "13.377674",
+              "52.516224"
+            ]
+          }
+          },{
+            "type": "Feature",
+            "properties": {
+              "title": "Checkpoint Charlie",
+              "marker-size": "medium",
+              "marker-color": "#FFFF00",
+              "marker-symbol": "car",
+              "images": [
+
+                ['<img src="images/CheckpointCharlie.jpg" />',
+                  "Checkpoint Charlie was an important gate to East Berlin that was used by foreign diplomats. (Roger, Berlin - Checkpoint Charlie (1970))"
+                ],
+                ['<img src="images/tanks.jpg" />',
+                  "The standoff between the Americans and the Russians in 1961.(author unknown)"
+                ],
+                ["<iframe width=\"180\" src=\"https://www.youtube.com/embed/tb9AMndjr2U\" frameborder=\"0\" allowfullscreen></iframe>",
+                  "Standoff at Checkpoint Charlie 1961."
+              ]
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                "13.390368",
+                "52.507593"
+              ]
+            }
+            },
+
+            {
+            "type": "Feature",
+            "properties": {
+              "title": "Friedrichstraße",
+              "marker-size": "medium",
+              "marker-color": "#FFFF00",
+              "marker-symbol": "rail-metro",
+              "images": [
+
+                ['<img src="images/Palace2.jpg" />',
+                  "Friedrichstraße was in East Berlin, but still served West Berlin's subway system. (Ingolf Berlin - U-Bahnhof Friedrichstraße)"
+                ],
+                ['<img src="images/trainstation2.jpg" />',
+                  "Friedrichstraße was called the Palace of Tears because East Berliners could see West Berliners but could not go to West Berlin with them (Garrett Ziegler Tränenpalast (Palace of Tears), Berlin)"
+                ],
+                ['<img src="images/berlin.jpg" />',
+                  "Friedrichstraße in 1900 (Unknown - Album von Berlin, Globus Verlag, Berlin)"
+                ],
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                "13.386978",
+                "52.520289"
+              ]
+            }
+      },
+
+      {
+              "type": "Feature",
+              "properties": {
+                "title": "Fernsehturm",
+                "marker-size": "medium",
+                "marker-color": "#FF0000",
+                "marker-symbol": "monument",
+                "images": [
+                  ['<img src="images/4415213648_a7a0ecab4d_q.jpg" />',
+                    "Fernsehturm. by Christian Stangier"
+                  ],
+                  ['<img src="images/8656573470_7a613fd698_q.jpg" />',
+                    "Fernsehturm Berlin by Christian Reimer"
+                  ],
+                  ["<iframe width=\"180\" src=\"https://www.youtube.com/embed/Phy-wSLel4I\" frameborder=\"0\" allowfullscreen></iframe>",
+                    "Ausblick vom Berliner Fernsehturm by ColonelHogan9162"
+                  ]
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  "13.408892",
+                  "52.52087"
+                ]
+              }
+              },{
+                "type": "Feature",
+                "properties": {
+                  "title": "Berliner Dom",
+                  "marker-size": "medium",
+                  "marker-color": "#FF0000",
+                  "marker-symbol": "place-of-worship",
+                  "images": [
+                    ['<img src="images/4547016348_5c4a81eb5e_q.jpg" />',
+                      "berliner dom by fRandi-Shooters"
+                    ],
+                    ['<img src="images/8077862177_e1cdfdec0f_q.jpg" />',
+                      "Berliner Dom by Loïc Lagarde"
+                    ],
+                    ["<iframe width= \"180\" src=\"https://www.youtube.com/embed/UWNBE-YiX5k\" frameborder=\"0\" allowfullscreen></iframe>",
+                      "Festival of Lights am Berliner Dom by Mr1X"
+                    ]
+                  ]
+                },
+                "geometry": {
+                  "type": "Point",
+                  "coordinates": [
+                    "13.400037",
+                    "52.519231"
+                  ]
+                }
+                },{
+                  "type": "Feature",
+                  "properties": {
+                    "title": "Pergamon Museum",
+                    "marker-size": "medium",
+                    "marker-color": "#FF0000",
+                    "marker-symbol": "museum",
+                    "images": [
+                      ['<img src="images/501243394_20486868b0_q.jpg" />',
+                        "Pergamon Museum by Luis Villa del Campo"
+                      ],
+                      ['<img src="images/7117315287_78383f19e6_q.jpg" />',
+                        "Pergamon Museum - Pergamon Collection by SpirosK photography"
+                      ],
+                      ["<iframe width=\"180\" src=\"https://www.youtube.com/embed/H7y0p7nEKuk\" frameborder=\"0\" allowfullscreen></iframe>",
+                        "Uruk - 5000 Jahre Megacity: Ausstellung im Pergamonmuseum Berlin by wwwkunstundfilmde"
+                      ]
+                    ],
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      "13.398026",
+                      "52.519576"
+                    ]
+                  }
+                },
+
+              ]
+      }]

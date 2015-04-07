@@ -1,0 +1,108 @@
+var geoJson = [{
+	"type": "FeatureCollection",
+	"features": [{
+		"type": "Feature",
+		"properties": {
+			"title": "Palasthotel and Radisson Blu with Aquadom aquarium on the Spree River",
+			"marker-size": "large",
+			"marker-color": "#0066FF",
+			"marker-symbol": "star-stroked",
+			"images": [
+				[
+					"<img src=\"images/Bundesarchiv_Bild_183-1985-0415-029,_Berlin,_Palasthotel,_Schubschiff_auf_Spree.jpg\">",
+					"Photo by Peter Heinz Junge, 15 April 1985. The Palasthotel was a five-star Interhotel finished in 1979 with restaurants and bars. It was one of the places where young women from the East came to meet and dance with West German businessmen and guests in hope that they would come back with Western gifts. Guests even included Bruce Springsteen. The hotel was heavily bugged, with cameras and surveillance equipment! Called the \u201cStasi Nest.\u201d Sources: Wikipedia Palasthotel and personal interviews."
+				],
+				[
+					"<img src=\"images/AquaDom_von_Oben.jpg\" />",
+					"Photo by Dellex (own work), 15 August 2006. After reunification, the Palasthotel was torn down and a large new complex, the Radisson Blu Hotel Berlin was opened in its place. It houses the Aquadom, a huge cylindrical aquarium with more than 1,500 fish. It holds one million liters of water (260,000) gallons. Source: Wikipedia Aquadom."
+				],
+				[
+					"<iframe width=\"175\" src=\"https://www.youtube-nocookie.com/embed/CzYtG2A6-Fc\" frameborder=\"0\" allowfullscreen><\/iframe>",
+					"Video: The AquaDom Berlin by the MarineBiologyChannel. An elevator goes through this aquarium at the Radisson Blu."
+				]
+			]
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				"13.402749",
+				"52.519617"
+			]
+		}
+	}, {
+		"type": "Feature",
+		"properties": {
+			"title": "Hotel Stadt Berlin and Park Inn on Alexanderplatz",
+			"marker-size": "large",
+			"marker-color": "#6600FF",
+			"marker-symbol": "star-stroked",
+			"images": [
+				[
+					"<img src=\"images/Bundesarchiv_Bild_183-H0824-0030,_Berlin,_Alexanderplatz,_Hotel_'Stadt_Berlin',_Fernsehturm.jpg\" />",
+					"Photo by Hubert Link, 24 August 1973. The four-star Hotel Stadt Berlin was built from built from 1967-70 on Alexanderplatz for high-level guests from Comecon (Eastern Bloc) countries. As one of the first Interhotels (but not in the group of five-star Interhotels for guests from non-socialist countries), the Hotel Stadt Berlin was a landmark skyscraper with 2000 beds and dining venues for 1900 and bars like the Panorama Restaurant (37th floor, the still famous Panorama Bar). The exterior covered with glossy blue glass, aluminum, and wood; the interior designed by artists. Source: ddr-wissen.de."
+				],
+				[
+					"<img src=\"images/Park_Inn_New.jpg\" />",
+					"Photo by ProhibitOnions, 5 May 2006. After reunification, the Hotel Stadt Berlin was briefly called the Forum Hotel Berlin, then remodeled. Now it glitters over Alexanderplatz as the Park Inn, with a public viewing terrace on the roof. Source: Wikipedia Park Inn Berlin."
+				]
+			]
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				"13.4129018",
+				"52.5227852"
+			]
+		}
+	}, {
+		"type": "Feature",
+		"properties": {
+			"title": "The Grandhotel and The Westin Grand Hotel at Friedrichstrasse and Unter den Linden",
+			"marker-size": "large",
+			"marker-color": "#FF0000",
+			"marker-symbol": "star-stroked",
+			"images": [
+				[
+					"<img src=\"images/Bundesarchiv_Bild_183-1987-0801-006,_Berlin,_'Grand_Hotel'.jpg\" />",
+					"Photo by Bernd Settnik, 1 August 1987. Completed in 1987, the Grandhotel was a five-star Interhotel on the corner of Friedrichstrasse and Unter den Linden. It had 350 rooms and suites, 14 restaurants, cafes, and bars. As a five-star Interhotel, its guests had to pay in foreign currency (no East German marks). Each Interhotel had a shop with Western goods for anyone with foreign currency, e.g. dollars or West German marks. Sources: Wikipedia Interhotel and ddr-wissen.de."
+				],
+				[
+					"<img src=\"images/128px-Westin_Grand_Berlin_Friedrichstrasse.jpg\" />",
+					"Photo by Mklreg, 2006 (own work). Since the Interhotels were not privately run, they were sold on the international market after reunification via the privatization agency called the Treuhandanstalt. Many films and TV series were made in the Westin Grand Hotel, e.g. \u201cThe Bourne Supremacy\u201d (2004). It was named Germany\u2019s Leading Business Hotel in 2010, and it is the only hotel in Europe with its own organ. Source: Wikipedia Westin Grand Berlin."
+				]
+			]
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				"13.3841339",
+				"52.5161094"
+			]
+		}
+	}, {
+		"type": "Feature",
+		"properties": {
+			"title": "Domhotel and Hilton at Gendarmenmarkt",
+			"marker-size": "large",
+			"marker-color": "#FFFF00",
+			"marker-symbol": "star-stroked",
+			"images": [
+				[
+					"<img src=\"images/Bundesarchiv_Bild_183-1990-1130-300,_Berlin,_'Domhotel'.jpg\" />",
+					"Photo by Thomas Lehmann, 30 November 1990. The Domhotel was one of four special five-star Interhotels in Berlin (the Grand Hotel, Palasthotel, Domhotel, and the Hotel Metropol) that were only accessible to guests from non-socialist countries who paid with foreign currency (not East German Marks). However, every Interhotel had an Intershop, where Western goods could be purchased for foreign currency. Although construction began in the 80s, the Domhotel opened in 1990 with every luxury, including sauna, squash courts, bowling, oxygen therapy, and translation services. Sources: Hotelfuehrer Interhotel DDR, 1989 and ddr-wissen.de."
+				],
+				[
+					"<img src=\"images/Foyer_im_Hilton_Berlin.jpg\" />",
+					"Photo by Andrevishay, 25 August 2007. The 1992 Hilton Berlin is located at one corner of the grand Gendarmenmarkt, a historic seventeenth century square with a famous Christmas market and open-air concerts. At one end is the Konzerthaus, designed by architect Karl Friedrich Schinkel and built on the site of the burned National Theater (a statue of Schiller reminds us). The French and German Cathedrals are on the sides. The Hilton Berlin has a huge ballroom for 500, and your pet is welcome if it is \u201csmall\u201d (under 10 kg). Sources: Hilton Berlin, Wikipedia Gendarmenmarkt."
+				]
+			]
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				"13.392806",
+				"52.5122"
+			]
+		}
+	}]
+}]

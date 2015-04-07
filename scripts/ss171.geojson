@@ -1,0 +1,185 @@
+var geoJson = [{
+  "type": "FeatureCollection",
+  "features": [{
+    "type": "Feature",
+    "properties": {
+      "title": "Humboldt University of Berlin",
+      "marker-size": "medium",
+      "marker-color": "#3366FF",
+      "marker-symbol": "star-stroked",
+      "images": [
+        ['<img src="images/berlinu1850.jpg" />',
+          "The Humboldt University of Berlin was founded in 1810 as a research and teaching university that would provide students with a well-rounded liberal arts education. Its first term included 256 students and 52 faculty members. (Photo credit: 'Berlin Universitaet um 1850' by A. Carse)"
+        ],
+        ['<img src="images/800px-Berlin_Universität_um_1900.jpg" />',
+          "Many Noble Prize winners conducted research and taught at the university, including Albert Einstein, Fritz Haber, and Erwin Schrödinger. (Photo credit: 'Berlin Universität um 1900' by Unknown)."
+        ],
+        ['<img src="images/students-1905.jpg" />',
+          "Notable students of the university include Otto von Bismark, W.E.B. Du Bois, and the Brothers Grimm. (Photo credit: 'Bundesarchiv Bild 146-1973-030C-16, Berlin, Studenten vor der Universität' by Unknown)."
+        ],
+        ['<img src="images/modern berlin.jpg" />',
+          "Today, the school is an internationally-ranked university, featuring over 33,000 students, over 400 professors, and three different campuses. (Photo credit: '080110 uni berlin' by Friedrich Petersdorff)."
+        ],
+        [
+          '<iframe width="180"  src="http://www.youtube.com/embed/5q4VNVA7EZA" frameborder="0" allowfullscreen></iframe>',
+          "'A site visit of Humboldt-Universität' by Humboldt-Universität zu Berlin"
+        ],
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "13.393655",
+        "52.517883"
+      ]
+    }
+    }, {
+      "type": "Feature",
+      "properties": {
+        "title": "A tour of Berlin in 1900",
+        "marker-size": "medium",
+        "marker-color": "#e5c278",
+        "marker-symbol": "star-stroked",
+        "images": [
+          [
+            '<iframe width="180"  src="http://www.youtube.com/embed/B-m9A8mY-U0" frameborder="0" allowfullscreen></iframe>',
+            "'Berlin 1900 in colour!!!!' by MrYourentertainer."
+          ],
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "13.376199",
+          "52.517539"
+        ]
+      }
+      },{
+        "type": "Feature",
+        "properties": {
+          "title": "Kaiser Wilhelm Memorial Church",
+          "marker-size": "medium",
+          "marker-color": "#3366FF",
+          "marker-symbol": "star-stroked",
+          "images": [
+            ['<img src="images/wilhelm inauguration.jpg" />',
+              "The foundation-stone for the church was laid on March 22, 1891 (Kaiser Wilhelm I's birthday) with designs by architect Franz Schwechten. It opened on September 1, 1895 and was dedicated by Kaiser Wilhelm II to his grandfather Kaiser Wilhelm I. (Photo credit: 'KWGK Einweihung 01' by Unknown)."
+            ],
+            [
+              '<iframe width="180"  src="http://www.youtube.com/embed/Zd63N7SQgoU" frameborder="0" allowfullscreen></iframe>',
+              "'Heil dir im Siegerkranz (English Subtitle)' by Deutsches Vaterland"
+            ],
+            ['<img src="images/Wilhelm.jpg" />',
+              "The bell chime of the old church was composed by Prince Louis Ferdinand of Prussia and could be heard every hour. However, the bell tower (and much of the church) was destoryed in WII following an air raid. (Photo credit: 'Emperor Wilhelm's Memorial Church (Berlin, Germany)' by Unknown)"
+            ],
+            ['<img src="images/wilhelm modern.jpg" />',
+              "The new Kaiser Wilhelm Memorial Church was designed by Egon Eiermann in 1963 as four buildings surrounding the ruins of the old church. The new church has 1000 square feet of floor area and can accomodate up to 1000 people. (Photo credit: 'Gedächtniskirche1' by nl:User:GerardM)."
+            ],
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "13.335082",
+            "52.504818"
+          ]
+        }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "title": "Hotel Adlon",
+            "marker-size": "medium",
+            "marker-color": "#3366FF",
+            "marker-symbol": "star-stroked",
+            "images": [
+              ['<img src="images/adlong-1926.jpg" />',
+                "Opened in 1907, Hotel Adlon was the most glamorous hotel in Germany, rivaling luxury hotels in cities like London and Paris. It hosted guests such as Kaiser Wilhelm II, Thomas Edison, and Greta Garbo, and featured amenities like hot war, electricity, and on-site laundry. (Photo credit: 'Bundesarchiv Bild 102-13848F, Berlin, Hotel Adlon' by Unknown)."
+              ],
+              ['<img src="images/adlong-modern.jpg" />',
+                "Despite being demolished in 1984, after acting as a bomb shelter in WWII and lodging for East German apprentices during the Cold War, Hotel Adlon was rebuilt in 1997. It continues to operate today. (Photo credit: 'Hotel Adlon (Berlin)' by Raimond Spekking')"
+              ],
+            ]
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              "13.380556",
+              "52.515833"
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "title": "Kurfurstendamm",
+            "marker-size": "medium",
+            "marker-color": "#3366FF",
+            "marker-symbol": "star-stroked",
+            "images": [
+              ['<img src="images/berlin-1937.jpg" />',
+                "Kurfurstendamm in Early Twentieth Century. This famous avenue of Berlin features premier shops and restaurants as well as a myriad of other tourist attractions. Throughout the early twentieth century, Ku'damm was a major nightlife hub. (Photo credit: 'Changing Berlin - 1937' by Jasperdo)"
+              ],
+              ['<img src="images/107139928_95657ccdcb_q.jpg" />',
+                "Kurfurstendamm in the present. Kurfurstendamm continues to attract tourists and Berliners for its shopping and housing. It also has become a hub for fashion designers and car manufacturers in more recent years. (Photo credit: 'Kurfurstendamm' by storem)"
+              ]
+            ]
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              "13.331486",
+              "52.503606"
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "title": "Charlottenberg Palace, Berlin, HDR",
+            "marker-size": "medium",
+            "marker-color": "#3366FF",
+            "marker-symbol": "star-stroked",
+            "images": [
+              ['<img src="images/Schloss_Charlottenburg,_Berlin_1900 (2).png" />',
+                "Charlottenburg Palace in 1900. The Charlottenburg Palace is the largest palace in Berlin. Built in the 17th century, the palace features baroque art and a famous garden in the back. (Photo credit: 'Schloss Charlottenburg, Berlin 1900' by Unknown)"
+              ],
+              ['<img src="images/15957842971_182bec9c14_q.jpg" />',
+                " Charlottenburg Palace in the Present. The Charlottenburg Palace has become a major tourist attraction in Berlin with many visitors paying to tour the inside and occasionally visit to attend functions, such as banquets, cultural events, and concerts. (Photo credit: 'Charlottenberg Palace, Berlin, HDR' by fridgebuzz77)"
+              ],
+            ]
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              "13.295833",
+              "52.521111"
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "title": "Sowjetisches Ehrenmal im Tiergarten",
+            "marker-size": "medium",
+            "marker-color": "#3366FF",
+            "marker-symbol": "star-stroked",
+            "images": [
+              ['<img src="images/Berlin_Tiergarten (2).jpg" />',
+                "Großer Tiergarten in the Present. Tiergarten is a 520 acre park that lies in the center of Berlin, and it is the second largest garden in the city. In the present, there is a large tunnel that travels underneath the park for transportation. (Photo credit: 'Berlin Tiergarten Siegessäule Luftansicht' by beedubz)"
+              ],
+              ['<img src="images/Frederick_William_II--tiergarten.jpg" />',
+                "Fredrick III memorial in 1879 in Großer Tiergarten. Among the many statues at Tiergarten is this one of Kaiser Frederick III. In the late 19th century, Kaiser Frederick III declared the park, which was formerly under direct ownership of the king, public property. (Photo credit: 'Frederick William III memorial, Berlin 1879' by Photographische Gesellschaft)"
+              ],
+            ]
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              "13.359163",
+              "52.514152"
+            ]
+          }
+          }
+        ]
+      }];

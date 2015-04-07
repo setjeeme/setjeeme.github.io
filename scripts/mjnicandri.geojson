@@ -1,0 +1,157 @@
+var geoJson = [{
+  "type": "FeatureCollection",
+  "features": [{
+      "type": "Feature",
+      "properties": {
+        "title": "Reichstag Building",
+        "marker-size": "medium",
+        "marker-color": "#3366FF",
+        "marker-symbol": "star-stroked",
+        "images": [
+          ['<img src="images/Reichstag.jpg" />',
+            "Berlin, Reichstag nach Bomben-Anschlag by Unknown. Originally built for Diet of the German Republic, the Reichstag building was used as the seat of parliament of the Weimar Republic from 1919-1933. Due to the many warring political parties involved in the governing body, this period in Germany’s political history was particularly divisive and unstable."
+          ],
+          ['<img src="images/14380126355_158cfdf22e_q.jpg" />',
+            "Old Reichstag Building by Stuart Rankin."
+          ]
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "13.376187",
+          "52.51862"
+        ]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "title": "Wintergarten",
+        "marker-size": "medium",
+        "marker-color": "#3366FF",
+        "marker-symbol": "star-stroked",
+        "images": [
+          ['<img src="images/5885669673_61db5ac507_q.jpg" />',
+            "wintergarten berlin by trash world. In 1887, Wintergarten opened in the Central Hotel right next to the city’s main train station. Both a popular destination and a haven for the local bourgeois, this variety theater served as a symbol of all things modern and avant-garde."
+          ],
+          ['<img src="images/Bundesarchiv_Bild_102-13190,_Berlin,_Akrobatenvorführung.jpg" />',
+            "Berlin, Akrobatenvorfuhrung by Unknown. Giving a characteristically high-energy performance, the trapeze artists typically performed as part of a set that included singers, dancers, comedians, and actors. The state-of-the-art shows provided endless fascination to a large, captivated audience."
+          ],
+          ["<iframe width=\"180\" src=\"http://www.youtube.com/embed/4ls8SPpRXgU\" frameborder=\"0\" allowfullscreen><\/iframe>",
+            "Berlin in the 20s by Alfruna. This series of clips gives a snapshot of life in Berlin in the midst of the Golden Twenties. Clearly, Berlin was a bustling, vibrant destination, and this video shows glimpses of both the wealthier citizens and the average laborer. A place of endless wonder and urban extravagance, Berlin was a shining example of a cosmopolitan city."
+          ]
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "13.364651",
+          "52.502195"
+        ]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "title": "Potsdamer Platz",
+        "marker-size": "medium",
+        "marker-color": "#3366FF",
+        "marker-symbol": "star-stroked",
+        "images": [
+          ['<img src="images/Potsdamer Platz.jpg" />',
+            "Der Verkehrsturm am Potsdamer Platz in Berlin by Willy Pragher. Potsdamer Platz boasted the first traffic light in Continental Europe. It was erected on October 20, 1924 in an effort to control the immense amount of daily traffic. Astoundingly, the interchange had previously been managed by 11 policeman standing on wooden blocks!"
+          ],
+          ['<img src="images/Potsdamer2.jpg" />',
+            "Potsdamer Platz in Berlin by Willy Pragher."
+          ],
+          ['<img src="images/Potsdamer3.jpg" />',
+            "Berlin, Leipziger Platz und Leipziger Straße by A. Frankl."
+          ]
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "13.376052",
+          "52.509662"
+        ]
+      }
+    },{
+     "type": "Feature",
+     "properties": {
+       "title": "Berlin Victory Column",
+       "marker-size": "medium",
+       "marker-color": "#3366FF",
+       "marker-symbol": "star-stroked",
+       "images": [
+         ['<img src="images/5336261475_bdc5953fe4_q.jpg" />',
+           "Berlin 1946- Victory Column (Berlin Siegessäule) by mocr. The Victory Column was built to commemorate the Prussian victory in the Danish-Prussian war. In 1920 it stood in Königsplatz, directly across from the Reichstag."
+         ],
+         [
+           '<iframe width="180"  src="http://www.youtube.com/embed/H4wnh2osfGI" frameborder="0" allowfullscreen></iframe>',
+           "Siegessäule, Berlin. Each of the three original columns represents a victory over the Danish, a victory over the Austrians, and a victory over the French."
+         ],
+         ['<img src="images/14267454553_2f9a8e568e_q.jpg" />',
+           "Untitled by Trevor Warry. In 1938, it was relocated by the Nazis to a larger intersection called the Großer Stern. Today, it is a large tourist attraction. In 1920, it served as a reminder to Germany during World War I of their past victories."
+         ]
+       ]
+     },
+     "geometry": {
+       "type": "Point",
+       "coordinates": [
+         "13.3725",
+         "52.5186"
+        ]
+      }
+    },{
+     "type": "Feature",
+     "properties": {
+       "title": "Charlottenburg Palace",
+       "marker-size": "medium",
+       "marker-color": "#3366FF",
+       "marker-symbol": "star-stroked",
+       "images": [
+         ['<img src="images/14545650267_185479c29b_q.jpg" />',
+           "Charlottenburg Palace by Berlin Global. In 1920, Charlottenburg went from being an independent city to an incorporated bourough of Berlin. The area became the 'New West' and was a center of leisure and nightlife. This era was known as the 'Golden Twenties,' but came to an end with the rise of the Nazi Party."
+         ],
+         [
+           '<iframe width="180"  src="http://www.youtube.com/embed/EHKCG2uvedU" frameborder="0" allowfullscreen></iframe>',
+           "Schloss Charlottenburg. The area surrounding the palace was a cultural hub. The palace itself served as a symbol of great rococo and baroque architecture and culture of past centuries. Amidst the emerging culture of the 'Golden Twenties' in the Charlottenburg burough, the palace itself stood as its own example of Berlin culture.  "
+         ],
+         [
+           '<iframe width="180"  src="http://www.youtube.com/embed/3WvKhOTfH00" frameborder="0" allowfullscreen></iframe>',
+           "An aerial tour of Charlottenburg Palace. The palace was badly damaged during World War II, but has remained largely the same as it was in 1920."
+         ]
+       ]
+     },
+     "geometry": {
+       "type": "Point",
+       "coordinates": [
+         "13.295833",
+         "52.521111"
+        ]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "title": "The Oberbaum Bridge",
+        "marker-size": "medium",
+        "marker-color": "#3366FF",
+        "marker-symbol": "star-stroked",
+        "images": [
+          ['<img src="images/11650707945_7c84e36fe2_q.jpg" />',
+            "Oberbaum Bridge by Matt. The Oberbaum Bridge, or Oberbaumbrücke, crosses the River Spree and connects Friedrichshain to Kreuzberg. The bridge became the crossing between these two new boroughs when Berlin absorbed several municipalities in 1920."
+          ],
+          ['<img src="images/9523738381_089b1b4a97_q.jpg" />',
+            "Berlin Oberbaum Bridge by Dirk Buttgereit. The bridge was built in 1895. It began serving its purpose in 1920, and has served this same basic purpose since then. It linked the cultures of the two new boroughs and eventually became a link between East and West Berlin from the sixties through the eighties. "
+          ]
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "13.44535",
+          "52.501736"
+        ]
+      }
+    },]
+      }];
