@@ -45,7 +45,7 @@ map.markerLayer.on('layeradd', function(e) {
   // http://leafletjs.com/reference.html#popup
   marker.bindPopup(popupContent, {
     closeButton: false,
-    maxWidth: 200,
+    maxWidth: 300,
     autoPan: true,
     keepInView: true
   });
