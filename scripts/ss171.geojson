@@ -38,7 +38,7 @@ var geoJson = [{
       "properties": {
         "title": "A tour of Berlin in 1900",
         "marker-size": "medium",
-        "marker-color": "#e5c278",
+        "marker-color": "#3366FF",
         "marker-symbol": "star-stroked",
         "images": [
           [
