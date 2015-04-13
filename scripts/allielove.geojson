@@ -28,7 +28,7 @@ var geoJson = [{
         "properties": {
           "title": "Brandenburg Gate",
           "marker-size": "medium",
-          "marker-color": "#e5c278",
+          "marker-color": "#3366FF",
           "marker-symbol": "star-stroked",
           "images": [
             [
@@ -56,7 +56,7 @@ var geoJson = [{
             "properties": {
               "title": "Berlin-Marzahn Concentration Camp",
               "marker-size": "medium",
-              "marker-color": "#e5c278",
+              "marker-color": "#3366FF",
               "marker-symbol": "star-stroked",
               "images": [
                 [
@@ -77,7 +77,7 @@ var geoJson = [{
               "properties": {
                 "title": "Kaiser Wilhelm Memorial Church",
                 "marker-size": "medium",
-                "marker-color": "#e5c278",
+                "marker-color": "#3366FF",
                 "marker-symbol": "star-stroked",
                 "images": [
                   [
@@ -102,7 +102,7 @@ var geoJson = [{
                 "properties": {
                   "title": "Charlottenburg Palace",
                   "marker-size": "medium",
-                  "marker-color": "#e5c278",
+                  "marker-color": "#3366FF",
                   "marker-symbol": "star-stroked",
                   "images": [
                     [
@@ -127,7 +127,7 @@ var geoJson = [{
                 "properties": {
                   "title": "Kaiser Wilhelm Memorial Church",
                   "marker-size": "medium",
-                  "marker-color": "#e5c278",
+                  "marker-color": "#3366FF",
                   "marker-symbol": "star-stroked",
                   "images": [
                     [
@@ -152,7 +152,7 @@ var geoJson = [{
                 "properties": {
                   "title": "Potsdamer Platz",
                   "marker-size": "medium",
-                  "marker-color": "#e5c278",
+                  "marker-color": "#3366FF",
                   "marker-symbol": "star-stroked",
                   "images": [
                     [
@@ -177,7 +177,7 @@ var geoJson = [{
                 "properties": {
                   "title": "Reich Chancellory",
                   "marker-size": "medium",
-                  "marker-color": "#e5c278",
+                  "marker-color": "#3366FF",
                   "marker-symbol": "star-stroked",
                   "images": [
                     [
@@ -202,7 +202,7 @@ var geoJson = [{
                 "properties": {
                   "title": "Checkpoint Charlie",
                   "marker-size": "medium",
-                  "marker-color": "#e5c278",
+                  "marker-color": "#3366FF",
                   "marker-symbol": "star-stroked",
                   "images": [
                     [
@@ -227,7 +227,7 @@ var geoJson = [{
                 "properties": {
                   "title": "Berlin Museum Island",
                   "marker-size": "medium",
-                  "marker-color": "#e5c278",
+                  "marker-color": "#3366FF",
                   "marker-symbol": "star-stroked",
                   "images": [
                     [
@@ -252,7 +252,7 @@ var geoJson = [{
                 "properties": {
                   "title": "Olympiastadion Berlin",
                   "marker-size": "medium",
-                  "marker-color": "#e5c278",
+                  "marker-color": "#3366FF",
                   "marker-symbol": "star-stroked",
                   "images": [
                     [
@@ -277,7 +277,7 @@ var geoJson = [{
                 "properties": {
                   "title": "Waldbuhne",
                   "marker-size": "medium",
-                  "marker-color": "#e5c278",
+                  "marker-color": "#3366FF",
                   "marker-symbol": "star-stroked",
                   "images": [
                     [
@@ -293,7 +293,7 @@ var geoJson = [{
                     "52.5131"
                   ]
                 }
-              },
+              }
             ]
           }
         ]

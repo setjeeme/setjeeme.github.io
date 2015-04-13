@@ -48,7 +48,7 @@ function onEachFeature(feature, layer){
 	// http://leafletjs.com/reference.html#popup
 	layer.bindPopup(popupContent,{
 		closeButton: false,
-		maxWidth: 200,
+		maxWidth: 300,
 		autoPan: true,
 		keepInView: true
 
@@ -109,4 +109,4 @@ $('#map').on('click', '.popup .cycle a', function() {
 	return false;
 });
 
-map.setView([52.509187, 13.303643], 14);
+map.setView([52.509187, 13.303643], 13);
