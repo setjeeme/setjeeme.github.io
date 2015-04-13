@@ -42,7 +42,7 @@ map.markerLayer.on('layeradd', function(e) {
   // http://leafletjs.com/reference.html#popup
   marker.bindPopup(popupContent, {
     closeButton: false,
-    maxWidth: 400,
+    maxWidth: 300,
     autoPan: true,
     keepInView: true
   });
@@ -74,4 +74,4 @@ $('#map').on('click', '.popup .cycle a', function() {
   return false;
 });
 
-map.setView([52.519593, 13.48], 15);
+map.setView([52.519593, 13.48], 13);
