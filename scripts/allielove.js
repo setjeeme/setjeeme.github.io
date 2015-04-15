@@ -74,4 +74,4 @@ $('#map').on('click', '.popup .cycle a', function() {
 	return false;
 });
 
-map.setView([52.519593, 13.405671], 11);
+map.setView([52.519593, 13.405671], 12);
